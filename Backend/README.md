@@ -81,7 +81,3 @@ src/
 └── seed.ts        # Script standalone para crear el usuario de prueba
 ```
 
-## Documentos de apoyo
-
-- [`APRENDIZAJE.md`](APRENDIZAJE.md) — el recorrido de cómo se entendió el mecanismo de Guard + Strategy
-- [`COMO_LO_CONSTRUI.md`](COMO_LO_CONSTRUI.md) — explicación completa de cada módulo, en orden de construcción

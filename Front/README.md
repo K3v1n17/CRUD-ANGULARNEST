@@ -70,8 +70,3 @@ src/app/
 ├── app.config.ts   # Providers globales (router, HTTP, NgRx)
 └── app.routes.ts   # Definición de rutas
 ```
-
-## Documentos de apoyo
-
-- [`APRENDIZAJE.md`](APRENDIZAJE.md) — el recorrido de cómo se fue entendiendo NgRx, pregunta por pregunta
-- [`COMO_LO_CONSTRUI.md`](COMO_LO_CONSTRUI.md) — explicación completa de cada módulo, en orden de construcción
